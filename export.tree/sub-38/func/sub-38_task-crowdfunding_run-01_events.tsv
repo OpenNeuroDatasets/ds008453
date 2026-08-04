@@ -1,8 +1,0 @@
-onset	duration	trial_type	trial_index	stimulus	movie_id
-713.966	105.092	movie	1	./Clips/C7.mp4	C7
-819.058	16.005	Q2	1	n/a	C7
-835.062	16.006	Q3	1	n/a	C7
-851.068	15.861	Q4	1	n/a	C7
-866.929	45.951	Q1	1	n/a	C7
-912.880	11.999	ITI	1	n/a	C7
-924.878	33.122	movie	2	./Clips/C31.mp4	C31
