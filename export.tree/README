@@ -1,5 +1,0 @@
-Raw BIDS dataset rebuilt from local MRI NIfTI and PsychoPy behavioral Excel files.
-Subject sub-16 was excluded before BIDS organization.
-SPM-derived files were not copied into raw BIDS.
-T1w anatomical images must be defaced before OpenNeuro upload.
-Behavioral timing files are phase-level events: movie, Q1, Q2, Q3, Q4, ITI.
