@@ -1,0 +1,22 @@
+{
+  "trial_type": {
+    "Description": "Experimental phase within each crowdfunding trial.",
+    "Levels": {
+      "movie": "Movie viewing phase.",
+      "Q1": "Question 1 response phase.",
+      "Q2": "Question 2 response phase.",
+      "Q3": "Question 3 response phase.",
+      "Q4": "Question 4 response phase.",
+      "ITI": "Inter-trial interval."
+    }
+  },
+  "trial_index": {
+    "Description": "Trial index within the run."
+  },
+  "stimulus": {
+    "Description": "Stimulus movie file."
+  },
+  "movie_id": {
+    "Description": "Movie identifier parsed from stimulus filename."
+  }
+}
