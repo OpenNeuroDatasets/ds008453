@@ -1,0 +1,23 @@
+{
+    "Name": "Synchronized by unpersuasive pitches? Shared neural dynamics forecast crowdfunding outcomes",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Le-Si Wang",
+        "Lea Lu",
+        "Chun-Chia Kung",
+        "Claire H. C. Chang"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MATLAB",
+            "Description": "Custom scripts used to organize MRI and behavioral data into BIDS."
+        },
+        {
+            "Name": "AFNI",
+            "Description": "Used for anatomical defacing."
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008453.v1.0.1"
+}
